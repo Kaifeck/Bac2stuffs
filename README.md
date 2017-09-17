@@ -1,7 +1,7 @@
 # Bac2stuffs
 Stuff for my BAC2 that my teachers wanted
 # How to use the server
-You can start/kill the server by by either using the included starth2o/killh2o shell-script or using it like manually like it in the scripts. Make to to set the files to the correct realtive paths. (pid file and config folder)
+You can start/kill the server by by either using the included starth2o/killh2o shell-script or using it like manually like it in the scripts. Make sure to set the files to the correct realtive paths. (pid file and config folder)
 # How to test the page
 For testing the pagespeed I used sitespeed.io, a command line tool the runs in docker. It is installed with
 
